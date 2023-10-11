@@ -22,6 +22,12 @@ h2{
     padding: 85px 39px 1px 39px;
 }
 
+.main{
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
 .our{
     color: #4D4F62;
     text-align: center;
