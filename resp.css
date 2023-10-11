@@ -154,17 +154,21 @@
     .box-1:hover{
         transform: scale(1.1);
         transition: 1.5s;
+        background-color: lightcyan;
     }
     .box-2:hover{
         transform: scale(1.1);
         transition: 1.5s;
+        background-color: #fad0e0;
     }
     .box-3:hover{
         transform: scale(1.1);
         transition: 1.5s;
+        background-color: lightsalmon;
     }
     .box-4:hover{
         transform: scale(1.1);
         transition: 1.5s;
+        background-color: lightblue;
     }
 }
